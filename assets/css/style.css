@@ -60,7 +60,7 @@ html {
   line-height: 1.6em;
   overflow-x: hidden;
   background-color: #F4F6F9;
-  background-color: yellow;
+  background-color: black;
 }
 
 h1,
@@ -770,97 +770,97 @@ hr {
 
 .cs-accent_bg_1,
 .cs-accent_bg_1_hover:hover {
-  background-color:yellow ;
+  background-color:black ;
 }
 
 .cs-accent_bg_2,
 .cs-accent_bg_2_hover:hover {
-  background-color:yellow;
+  background-color:black;
 }
 
 .cs-accent_bg_3,
 .cs-accent_bg_3_hover:hover {
-  background-color:yellow;
+  background-color:black;
 }
 
 .cs-accent_bg_4,
 .cs-accent_bg_4_hover:hover {
-  background-color:yellow;
+  background-color:black;
 }
 
 .cs-accent_bg_5,
 .cs-accent_bg_5_hover:hover {
-  background-color:yellow;
+  background-color:black;
 }
 
 .cs-accent_bg_6,
 .cs-accent_bg_6_hover:hover {
-  background-color:yellow;
+  background-color:black;
 }
 
 .cs-accent_bg_7,
 .cs-accent_bg_7_hover:hover {
-  background-color: yellow;
+  background-color: black;
 }
 
 .cs-accent_bg_8,
 .cs-accent_bg_8_hover:hover {
-  background-color: yellow;
+  background-color: black;
 }
 
 .cs-accent_bg_9,
 .cs-accent_bg_9_hover:hover {
-  background-color: yellow;;
+  background-color: black;;
 }
 
 .cs-accent_bg_10,
 .cs-accent_bg_10_hover:hover {
-  background-color: yellow;
+  background-color: black;
 }
 
 .cs-accent_bg_15,
 .cs-accent_bg_15_hover:hover {
-  background-color: yellow;
+  background-color: black;
 }
 
 .cs-accent_bg_20,
 .cs-accent_bg_20_hover:hover {
-  background-color: yellow;
+  background-color: black;
 }
 
 .cs-accent_bg_25,
 .cs-accent_bg_25_hover:hover {
-  background-color: yellow;
+  background-color: black;
 }
 
 .cs-accent_bg_30,
 .cs-accent_bg_30_hover:hover {
-  background-color: yellow;
+  background-color: black;
 }
 
 .cs-accent_bg_35,
 .cs-accent_bg_35_hover:hover {
-  background-color: yellow;
+  background-color: black;
 }
 
 .cs-accent_bg_40,
 .cs-accent_bg_40_hover:hover {
-  background-color: yellow;
+  background-color: black;
 }
 
 .cs-accent_bg_50,
 .cs-accent_bg_50_hover:hover {
-  background-color: yellow;
+  background-color: black;
 }
 
 .cs-accent_bg_60,
 .cs-accent_bg_60_hover:hover {
-  background-color: yellow;
+  background-color: black;
 }
 
 .cs-accent_bg_70,
 .cs-accent_bg_70_hover:hover {
-  background-color: yellow;
+  background-color: black;
 }
 
 .cs-accent_bg_80,
@@ -988,7 +988,7 @@ hr {
 }
 
 .cs-white_btn:hover:after {
-  background-color: yellow;
+  background-color: black;
 }
 
 .cs-white_btn_2 {
@@ -1003,18 +1003,18 @@ hr {
 }
 
 .cs-white_btn_2:hover:after {
-  background-color: yellow;
+  background-color: black;
 }
 
 .cs-primary_btn {
   color: #fff;
-  background-color:yellow;
+  background-color:black;
   border-color: #06182C;
 }
 
 .cs-primary_btn:hover {
   color: #fff;
-  background-color:yellow;
+  background-color:black;
   border-color: #0052FF;
 }
 
@@ -1422,7 +1422,7 @@ ul.cs-list.cs-style2 li:not(:last-child) {
 
 .page-link:hover {
   color: #0052FF;
-  background-color: yellow;
+  background-color: black;
   border-color: rgba(238, 255, 0, 0.1);
 }
 
@@ -2304,7 +2304,7 @@ ul.cs-list.cs-style2 li:not(:last-child) {
   position: absolute;
   left: 0;
   right: 0;
-  background: yellow;
+  background: black;
   -webkit-transition: all 0.4s ease-out;
   transition: all 0.4s ease-out;
   opacity: 0;
@@ -2313,7 +2313,7 @@ ul.cs-list.cs-style2 li:not(:last-child) {
 .cs-video_popup.active .cs-video_popup_overlay {
   opacity: 0.8;
   height: 100%;
-  background: yellow;
+  background: black;
 }
 
 .cs-video_popup_content {
@@ -2441,7 +2441,7 @@ ul.cs-list.cs-style2 li:not(:last-child) {
 
 .cs-video_popup_close:hover:before,
 .cs-video_popup_close:hover:after {
-  background: yellow;
+  background: black;
 }
 
 .cs-video_popup_layer {
@@ -3198,17 +3198,17 @@ li.menu-item-has-children
 }
 
 .cs-hero.cs-style1 .cs-hero_title {
-  color: black;
+  color: rgb(248, 226, 26);
   margin-bottom: 30px;
 }
 
 .cs-hero.cs-style1 .cs-hero_secondary_title {
-  color: black;
+  color:rgb(248, 226, 26);
   margin-bottom: 20px;
 }
 
 .cs-hero.cs-style1 .cs-hero_subtitle {
-  color: black;
+  color: rgb(248, 226, 26);
   margin-top: 25px;
   margin-bottom: 0;
 }
@@ -3217,7 +3217,7 @@ li.menu-item-has-children
   position: absolute;
   top: 0;
   left: 0;
-  background: yellow;
+  background: black;
   height: 100%;
   width: 100%;
   opacity: 0.5;
@@ -3728,8 +3728,8 @@ li.menu-item-has-children
 }
 
 .cs-dark {
-  background-color: yellow;
-  color: black;
+  background-color: black;
+  color: rgb(240, 243, 55);
 }
 
 .cs-dark .cs-btn_bordered {
@@ -3738,12 +3738,12 @@ li.menu-item-has-children
 
 .cs-dark .cs-btn_bordered:hover {
   border-color: #fff;
-  color: #06182c;
+  color: #e8f719;
   background-color: #fff;
 }
 
 .cs-dark .cs-form_field_wrap label {
-  background-color: #06182c;
+  background-color: #e7f522;
 }
 
 .cs-dark .cs-btn,
@@ -3758,16 +3758,16 @@ li.menu-item-has-children
 .cs-dark h5,
 .cs-dark h6,
 .cs-dark .cs-primary_color {
-  color: black;
+  color: rgb(243, 247, 44);
 }
 
 .cs-dark .cs-white_bg,
 .cs-dark .cs-nav .cs-nav_list ul {
-  background-color: #283645;
+  background-color: #e4d01c;
 }
 
 .cs-dark .cs-primary_btn {
-  background-color: #0c2e4e;
+  background-color: #c4e21a;
   border-color: #0c2e4e;
 }
 
