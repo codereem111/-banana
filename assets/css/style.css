@@ -929,12 +929,12 @@ hr {
 }
 
 .cs-btn.cs-color1 {
-  color: #f7f333;
+  color: white;
   background-color:  rgb(156, 146, 2);
 }
 
 .cs-btn.cs-color1:hover {
-  background-color:  rgb(156, 146, 2);
+  background-color:  white;
   color: #181817;
 }
 
@@ -945,7 +945,7 @@ hr {
 .cs-btn_bordered:hover {
   border-color: #06182C;
   color: #181616;
-  background-color: #aed404;
+  background-color: white;
 }
 
 .cs-btn_filed::after {
@@ -1271,7 +1271,7 @@ hr {
   position: fixed;
   top: 0;
   left: 0;
-  background-color: rgba(230, 252, 30, 0.9);
+  background-color: white;
   width: 100vw;
   height: 100vh;
   z-index: 300;
@@ -3198,17 +3198,17 @@ li.menu-item-has-children
 }
 
 .cs-hero.cs-style1 .cs-hero_title {
-  color: rgb(248, 226, 26);
+  color: white;
   margin-bottom: 30px;
 }
 
 .cs-hero.cs-style1 .cs-hero_secondary_title {
-  color:rgb(248, 226, 26);
+  color:white;
   margin-bottom: 20px;
 }
 
 .cs-hero.cs-style1 .cs-hero_subtitle {
-  color: rgb(248, 226, 26);
+  color: white;
   margin-top: 25px;
   margin-bottom: 0;
 }
@@ -3729,7 +3729,7 @@ li.menu-item-has-children
 
 .cs-dark {
   background-color: black;
-  color: rgb(240, 243, 55);
+  color: white;
 }
 
 .cs-dark .cs-btn_bordered {
@@ -3758,7 +3758,7 @@ li.menu-item-has-children
 .cs-dark h5,
 .cs-dark h6,
 .cs-dark .cs-primary_color {
-  color: rgb(243, 247, 44);
+  color: white;
 }
 
 .cs-dark .cs-white_bg,
