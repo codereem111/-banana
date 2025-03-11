@@ -3162,7 +3162,7 @@ li.menu-item-has-children
 .cs-hero.cs-style1 {
   position: relative;
   padding: 0px;
-  min-height: 600px;
+  min-height: 300px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
